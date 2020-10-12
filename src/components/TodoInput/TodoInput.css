@@ -1,0 +1,21 @@
+.todo-input-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.todo-input {
+  width: 100%;
+  max-width: 600px;
+  padding: 10px;
+}
+.todo-input:focus {
+  outline: 0;
+}
+.todo-button {
+  margin-left: 10px;
+  padding: 12px;
+  border: none;
+  border-radius: 5px;
+  background-color: #5eafd8;
+  color: white;
+}
